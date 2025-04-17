@@ -30,4 +30,4 @@ const countdown = (deadline, elem, finalMessage ) => {
 };
 
 
-countdown('MAY 23 2025 15:00:51 GMT-0300', 'clock', 'llego el dia')
+countdown('Aug 23 2025 15:00:51 GMT-0300', 'clock', 'llego el dia')
